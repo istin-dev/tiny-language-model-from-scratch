@@ -303,7 +303,6 @@ The shared high-level idea is:
 
 ```bash
 git clone <https://github.com/istin-dev/tiny-language-model-from-scratch.git>
-cd first_language_mode
 python first_language_model.py
 ```
 
